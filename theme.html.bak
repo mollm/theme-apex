@@ -72,11 +72,7 @@
               </a>
             </li>
             {% endif %}
- <li>
-              <a href=" title="Google+" target="_blank">
-                <i class="icon-google-plus"></i> Google+
-              </a>
-            </li>
+
             {% if site.facebook %}
             <li>
               <a href="{{ site.facebook }}" title="Facebook" target="_blank">
